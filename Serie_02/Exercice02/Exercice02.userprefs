@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{3A724D9C-2A01-46A2-846E-7F2BD662BADC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exercice02/Program.cs">
+﻿<Properties StartupConfiguration="{EA5313D8-91FA-44B8-8FAC-885193F0D396}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercice02/BoardGame.cs">
     <Files>
-      <File FileName="Exercice02/Program.cs" Line="30" Column="6" />
+      <File FileName="Exercice02/Program.cs" Line="9" Column="51" />
+      <File FileName="Exercice02/BoardGame.cs" Line="57" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

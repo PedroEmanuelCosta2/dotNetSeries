@@ -1,0 +1,6 @@
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/bin/Release/Serie02_4.exe.config
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/bin/Release/Serie02_4.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/bin/Release/Serie02_4.pdb
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/obj/Release/Serie02_4.csproj.CoreCompileInputs.cache
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/obj/Release/Serie02_4.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Serie02_4/Serie02_4/obj/Release/Serie02_4.pdb
