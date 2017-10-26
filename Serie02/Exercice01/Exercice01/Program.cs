@@ -4,6 +4,10 @@ namespace Exercice01
 {
     class MainClass
     {
+        /// <summary>
+        /// The entry point of the program, where the program control starts and ends.
+        /// </summary>
+        /// <param name="args">The command-line arguments.</param>
         public static void Main(string[] args)
         {
 			int num1, num2;
@@ -19,6 +23,8 @@ namespace Exercice01
             }catch(OverflowException caught){
                 Console.WriteLine(caught.Message);
             }catch(DivideByZeroException caught){
+                Console.WriteLine(caught.Message);
+            }catch(FormatException caught){
                 Console.WriteLine(caught.Message);
             }
 

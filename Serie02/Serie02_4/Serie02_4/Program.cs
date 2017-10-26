@@ -16,6 +16,10 @@ using System.Collections.Generic;
 
 class Program
 {
+    /// <summary>
+    /// The entry point of the program, where the program control starts and ends.
+    /// </summary>
+    /// <param name="args">The command-line arguments.</param>
     static void Main(string[] args)
     {
         String fileName = "";
@@ -58,10 +62,12 @@ class Program
         WriteFile(fileName, ref registerArray);
     }
 
-    /**
-     * Open the file with the name that the user enter.
-     * Then read all the data of it to puting it in the dataFile string.
-     */
+    /// <summary>
+    /// Open the file with the name that the user enter.
+    /// Then read all the data of it to puting it in the dataFile string.
+    /// </summary>
+    /// <param name="fileName">File name.</param>
+    /// <param name="dataFile">Data file.</param>
     private static void ReadFile(String fileName, ref String dataFile)
     {
         FileStream fileStreamOpen = null;
@@ -92,10 +98,12 @@ class Program
         fileStreamOpen.Close();
     }
 
-    /**
-     * Create a new file and write the data of the registerArray inside.
-     * Make sure that the application quit if there is a problem to open the file.
-     */
+	/// <summary>
+	/// Create a new file and write the data of the registerArray inside.
+	/// Make sure that the application quit if there is a problem to open the file.
+    /// </summary>
+    /// <param name="fileName">File name.</param>
+    /// <param name="registerArray">Register array.</param>
     private static void WriteFile(String fileName, ref int[] registerArray)
     {
         FileStream fileStreamWritter = null;
@@ -123,10 +131,12 @@ class Program
         fileStreamWritter.Close();
     }
 
-    /**
-     * Modify the data from the data array by applying an averager and then put the values to the 
-     * filterDataArray.
-     */
+	/// <summary>
+	/// Modify the data from the data array by applying an averager and then put the values to the 
+	/// filterDataArray.
+    /// </summary>
+    /// <param name="data">Data.</param>
+    /// <param name="filterDataArray">Filter data array.</param>
     private static void ModifyData(int[] data, ref int[] filterDataArray)
     {
         for (int i = 0; i < data.Length - 2; i++)
@@ -146,9 +156,11 @@ class Program
         }
     }
 
-    /**
-     * Print all the values of the data array.
-     */
+    /// <summary>
+    /// Print the specified data.
+    /// </summary>
+    /// <returns>The print.</returns>
+    /// <param name="data">Data.</param>
     private static void Print(int[] data)
     {
         foreach (int val in data)

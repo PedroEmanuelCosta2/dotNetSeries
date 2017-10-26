@@ -12,6 +12,10 @@ namespace Exercice02
         private readonly int slotNumber;
         private readonly int pawnNumber;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="T:Exercice02.BoardGame"/> class.
+        /// </summary>
+        /// <param name="numberOfPlayers">Number of players.</param>
         public BoardGame(int numberOfPlayers)
         {
             pawn = new int[numberOfPlayers];
@@ -22,6 +26,9 @@ namespace Exercice02
             Init();
         }
 
+        /// <summary>
+        /// Print this instance.
+        /// </summary>
         public void Print()
         {
             Console.WriteLine("THE BOARD");
@@ -43,6 +50,9 @@ namespace Exercice02
             Console.WriteLine();
         }
 
+        /// <summary>
+        /// Init this instance.
+        /// </summary>
         private void Init()
         {
             //Random object
@@ -66,6 +76,10 @@ namespace Exercice02
             }
         }
 
+        /// <summary>
+        /// Gets the enumerator.
+        /// </summary>
+        /// <returns>The enumerator.</returns>
         public IEnumerator GetEnumerator()
         {
             List<String> list = new List<String>();
@@ -82,10 +96,18 @@ namespace Exercice02
             return list.GetEnumerator();
         }
 
+        /// <summary>
+        /// Gets the <see cref="T:Exercice02.BoardGame"/> with the specified letter.
+        /// </summary>
+        /// <param name="letter">Letter.</param>
         public bool this[char letter]{
             get { return pawn.Contains(Array.IndexOf(slots, letter) + 1); }
         }
 
+        /// <summary>
+        /// Gets the <see cref="T:Exercice02.BoardGame"/> with the specified pawnIndex.
+        /// </summary>
+        /// <param name="pawnIndex">Pawn index.</param>
         public char this[int pawnIndex]{
             get { return Convert.ToChar(slots[pawn[pawnIndex]-1]); }
         }
