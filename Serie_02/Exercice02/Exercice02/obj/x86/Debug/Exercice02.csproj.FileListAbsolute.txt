@@ -1,5 +1,0 @@
-/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Exercice02/Exercice02/obj/x86/Debug/Exercice02.csproj.CoreCompileInputs.cache
-/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Exercice02/Exercice02/bin/Debug/Exercice02.exe
-/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Exercice02/Exercice02/bin/Debug/Exercice02.pdb
-/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Exercice02/Exercice02/obj/x86/Debug/Exercice02.exe
-/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_02/Exercice02/Exercice02/obj/x86/Debug/Exercice02.pdb

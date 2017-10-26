@@ -1,0 +1,10 @@
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_01/Exercice03/Exercice03/bin/Debug/Exercice03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_01/Exercice03/Exercice03/bin/Debug/Exercice03.pdb
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.csproj.CoreCompileInputs.cache
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie_01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.pdb
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie01/Exercice03/Exercice03/bin/Debug/Exercice03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie01/Exercice03/Exercice03/bin/Debug/Exercice03.pdb
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.csproj.CoreCompileInputs.cache
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie01/Exercice03/Exercice03/obj/x86/Debug/Exercice03.pdb

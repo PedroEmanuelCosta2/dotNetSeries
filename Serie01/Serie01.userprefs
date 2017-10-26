@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FB337FF3-DB5F-424F-9815-6F42924F539E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercice03/Exercice03/Program.cs">
+    <Files>
+      <File FileName="Exercice03/Exercice03/Program.cs" Line="9" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Exercice03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercice02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exercice01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../Exercice01/Exercice01/Exercice01.csproj</String>
+    <String>../Exercice02/Exercice02/Exercice02.csproj</String>
+    <String>../Exercice03/Exercice03/Exercice03.csproj</String>
+    <String>../Exercice04/Exercice04/Exercice04.csproj</String>
+    <String>../Exercice05/Exercice05/Exercice05.csproj</String>
+  </DisabledProjects>
+</Properties>

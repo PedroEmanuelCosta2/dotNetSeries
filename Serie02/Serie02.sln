@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice01", "Exercice01\Exercice01\Exercice01.csproj", "{AFEF7D23-E6AC-4EC3-BF4F-9ED7FFF8EE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice02", "Exercice02\Exercice02\Exercice02.csproj", "{EA5313D8-91FA-44B8-8FAC-885193F0D396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serie02_4", "Serie02_4\Serie02_4\Serie02_4.csproj", "{AE08E58E-D652-4ED3-BED1-7745B3575152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEF7D23-E6AC-4EC3-BF4F-9ED7FFF8EE86}.Debug|x86.ActiveCfg = Debug|x86
+		{AFEF7D23-E6AC-4EC3-BF4F-9ED7FFF8EE86}.Debug|x86.Build.0 = Debug|x86
+		{AFEF7D23-E6AC-4EC3-BF4F-9ED7FFF8EE86}.Release|x86.ActiveCfg = Release|x86
+		{AFEF7D23-E6AC-4EC3-BF4F-9ED7FFF8EE86}.Release|x86.Build.0 = Release|x86
+		{EA5313D8-91FA-44B8-8FAC-885193F0D396}.Debug|x86.ActiveCfg = Debug|x86
+		{EA5313D8-91FA-44B8-8FAC-885193F0D396}.Debug|x86.Build.0 = Debug|x86
+		{EA5313D8-91FA-44B8-8FAC-885193F0D396}.Release|x86.ActiveCfg = Release|x86
+		{EA5313D8-91FA-44B8-8FAC-885193F0D396}.Release|x86.Build.0 = Release|x86
+		{AE08E58E-D652-4ED3-BED1-7745B3575152}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE08E58E-D652-4ED3-BED1-7745B3575152}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE08E58E-D652-4ED3-BED1-7745B3575152}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE08E58E-D652-4ED3-BED1-7745B3575152}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
