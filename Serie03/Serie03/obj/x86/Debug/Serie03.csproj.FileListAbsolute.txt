@@ -1,0 +1,5 @@
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie03/Serie03/bin/Debug/Serie03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie03/Serie03/bin/Debug/Serie03.pdb
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie03/Serie03/obj/x86/Debug/Serie03.csproj.CoreCompileInputs.cache
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie03/Serie03/obj/x86/Debug/Serie03.exe
+/Users/pedrocosta/HE-ARC/Dot_NET/Series/Serie03/Serie03/obj/x86/Debug/Serie03.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AAA17E01-A2DD-4D1E-907E-A840BB7D4716}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serie03/FilesTool.cs">
+    <Files>
+      <File FileName="Serie03/Program.cs" Line="57" Column="24" />
+      <File FileName="Serie03/Word.cs" Line="58" Column="58" />
+      <File FileName="Serie03/FilesTool.cs" Line="39" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Serie03 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
